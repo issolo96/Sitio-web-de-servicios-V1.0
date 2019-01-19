@@ -1,0 +1,11 @@
+body{
+		text-align: center;
+}
+h1,h2,h3 {
+text-align: center;
+}
+.pie {   
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}  
